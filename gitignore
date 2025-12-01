@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Data folders (raw LOB data NOT stored in repo)
+data/
+!/data/README.md
+
+# Outputs (optional — keep only curated ones)
+outputs/*.parquet
+outputs/*.feather
+outputs/*.npy
+
+# Kaggle and system files
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+ENV/
