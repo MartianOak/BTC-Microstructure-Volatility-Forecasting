@@ -1,7 +1,7 @@
 # BTC 5-Second Realized Volatility Forecasting  
 Hybrid HAR–XGBoost Model + Variance-Swap Style Backtests
 
-This repository contains the complete analysis, modeling, evaluation, and trading-style backtests for forecasting **5-second realized variance (RV)** on high-frequency crypto limit order book data.
+This repository contains the complete analysis, modeling, evaluation, and trading-style backtests for forecasting **5-second realized variance (RV)** on 1 second BTCUSDT limit order book data over 12 days. 
 
 All outputs were generated in a fully executed Kaggle notebook and included here for convenience.
 
